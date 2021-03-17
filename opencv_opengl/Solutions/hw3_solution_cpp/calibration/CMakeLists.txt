@@ -1,6 +1,0 @@
-PROJECT( calibration )
-FIND_PACKAGE( OpenCV REQUIRED )
-SET(MySources calibration.cpp )
-ADD_EXECUTABLE( calibration ${MySources} )
-TARGET_LINK_LIBRARIES( calibration ${OpenCV_LIBS} )
-SET_SOURCE_FILES_PROPERTIES(${MySources} PROPERTIES LANGUAGE CXX )

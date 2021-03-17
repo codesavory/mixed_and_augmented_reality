@@ -1,0 +1,24 @@
+e0107.jpg', '.\\checkerboardFromVideo\\frame0124.jpg', '.\\checkerboardFromVideo\\frame0141.jpg', '.\\checkerboardFromVideo\\frame0161.jpg', '.\\checkerboardFromVideo\\frame0174.jpg', '.\\checkerboardFromVideo\\frame0190.jpg', '.\\checkerboardFromVideo\\frame0228.jpg', '.\\checkerboardFromVideo\\frame0249.jpg', '.\\checkerboardFromVideo\\frame0274.jpg']
+.\checkerboardFromVideo\frame0054.jpg
+Reached True
+.\checkerboardFromVideo\frame0070.jpg
+Reached True
+.\checkerboardFromVideo\frame0107.jpg
+Reached True
+.\checkerboardFromVideo\frame0124.jpg
+Reached True
+.\checkerboardFromVideo\frame0141.jpg
+Reached True
+.\checkerboardFromVideo\frame0161.jpg
+Reached True
+.\checkerboardFromVideo\frame0174.jpg
+Reached True
+.\checkerboardFromVideo\frame0190.jpg
+Reached True
+.\checkerboardFromVideo\frame0228.jpg
+Reached True
+.\checkerboardFromVideo\frame0249.jpg
+Reached True
+.\checkerboardFromVideo\frame0274.jpg
+Reached True
+total error: 0.09354297514135786

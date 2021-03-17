@@ -1,0 +1,9 @@
+PROJECT( opengl_cv )
+FIND_PACKAGE( OpenCV )
+FIND_PACKAGE( OpenGL )
+FIND_PACKAGE( GLU )
+FIND_PACKAGE( GLUT )
+SET(MySources opengl_cv.cpp )
+ADD_EXECUTABLE( opengl_cv ${MySources} )
+TARGET_LINK_LIBRARIES( opengl_cv ${OpenCV_LIBS} ${OpenGL_LIBRARY} ${GLU_LIBRARY} ${GLUT_LIBRARY} )
+

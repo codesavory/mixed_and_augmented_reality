@@ -1,0 +1,7 @@
+Relighting Pipeline 1 -
+  FaceMesh Detection in OpenCV -> 3D Mesh Reconstruction in OpenGL ->
+    Relighting face based on virtual lights in OpenGL -> Approximate to 2D and overlay in OpenCV
+
+Relighting Pipeline 2 -
+  FaceMesh Detection in OpenCV -> convert the 3D mesh to UV unwrapped Texture Space in OpenGL ->
+    Relighting face in Texture Space -> Approximate the texture to overlay in 2D in OpenCV

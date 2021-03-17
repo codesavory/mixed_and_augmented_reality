@@ -1,0 +1,3 @@
+/Users/holl/Dropbox/Documents/CS291A_W21/OpenCV@4/hw2/sample_solution/CMakeFiles/rebuild_cache.dir
+/Users/holl/Dropbox/Documents/CS291A_W21/OpenCV@4/hw2/sample_solution/CMakeFiles/edit_cache.dir
+/Users/holl/Dropbox/Documents/CS291A_W21/OpenCV@4/hw2/sample_solution/CMakeFiles/opengl_cv.dir

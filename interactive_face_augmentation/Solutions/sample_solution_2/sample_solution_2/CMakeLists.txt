@@ -1,0 +1,9 @@
+PROJECT( main )
+FIND_PACKAGE( OpenCV )
+FIND_PACKAGE( OpenGL )
+FIND_PACKAGE( GLU )
+FIND_PACKAGE( GLUT )
+SET(MySources main.cpp cameraHelper.cpp)
+ADD_EXECUTABLE( main ${MySources} )
+TARGET_LINK_LIBRARIES( main ${OpenCV_LIBS} ${OpenGL_LIBRARY} ${GLU_LIBRARY} ${GLUT_LIBRARY} )
+
